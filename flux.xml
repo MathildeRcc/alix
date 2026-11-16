@@ -7,94 +7,122 @@
   <language>fr-FR</language>
   <atom:link href="https://itsalix.fr/flux.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Une question, plusieurs recherches cachées : le fan-out, ou comment l'IA vous trouve</title>
-    <link>https://itsalix.fr/fan-out-ia-question-en-dix</link>
-    <guid isPermaLink="true">https://itsalix.fr/fan-out-ia-question-en-dix</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Quand votre client pose une question à ChatGPT ou au Mode IA de Google, l'IA ne la cherche pas telle quelle. Elle la découpe en plusieurs recherches plus précises, sur le prix, les avis ou le site officiel, puis lit les pages que chacune ramène. C'est le fan-out, et votre visibilité se joue dans ces recherches-là.</description>
+    <title>Neuf sites rayés de Google Discover en une nuit : ce que les médias doivent vérifier</title>
+    <link>https://itsalix.fr/google-discover-sites-coupes-medias</link>
+    <guid isPermaLink="true">https://itsalix.fr/google-discover-sites-coupes-medias</guid>
+    <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Entre le 3 et le 4 novembre 2026, neuf sites français ont disparu de Google Discover après une action manuelle pour spam. Google ne dit pas ce qui leur est reproché. Les points communs relevés sont la production en série et des auteurs difficiles à identifier : deux signaux qu'un média peut vérifier chez lui dès aujourd'hui.</description>
+  </item>
+  <item>
+    <title>ChatGPT, un cinquième de Google en recherches, 0,36 % du trafic des sites : qui croire ?</title>
+    <link>https://itsalix.fr/chatgpt-ou-google-les-vrais-chiffres</link>
+    <guid isPermaLink="true">https://itsalix.fr/chatgpt-ou-google-les-vrais-chiffres</guid>
+    <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Les deux chiffres sont vrais, et ils ne mesurent pas la même chose. OpenAI compte les questions posées à ChatGPT, Ahrefs compte les visites qu'il envoie aux sites. L'écart dit l'essentiel : on peut être lu, résumé et recommandé dans ChatGPT sans recevoir de clic. Votre visibilité ne se mesure plus seulement en visites.</description>
+  </item>
+  <item>
+    <title>Quand une IA parle de votre ville, cite-t-elle votre journal ? Le guide du média local</title>
+    <link>https://itsalix.fr/media-local-source-pour-les-ia</link>
+    <guid isPermaLink="true">https://itsalix.fr/media-local-source-pour-les-ia</guid>
+    <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Une IA cite un média local quand ses robots de recherche peuvent entrer, quand une page répond nettement à une question sur le territoire et quand l'information y est datée et signée. Ces citations se mesurent déjà gratuitement, dans Bing et dans Google, et deviennent un argument auprès des annonceurs comme des partenaires.</description>
+  </item>
+  <item>
+    <title>Perplexity cite ses sources. Encore faut-il savoir les lire (et les vérifier)</title>
+    <link>https://itsalix.fr/lire-une-reponse-de-perplexity</link>
+    <guid isPermaLink="true">https://itsalix.fr/lire-une-reponse-de-perplexity</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Perplexity cherche sur le web à chaque question et relie ses phrases à des sources numérotées. C'est ce qui permet de voir d'où vient chaque recommandation : un média, une administration, ou le site d'un vendeur qui se recommande lui-même. Lire une réponse prend deux minutes, à condition de savoir où regarder.</description>
   </item>
   <item>
     <title>Il n'y a plus de position 1 dans ChatGPT. Voici ce qu'il faut mesurer à la place</title>
     <link>https://itsalix.fr/part-de-voix-ia</link>
     <guid isPermaLink="true">https://itsalix.fr/part-de-voix-ia</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
     <description>Dans une réponse d'IA, il n'y a pas de classement : la même question donne rarement deux fois la même liste. La part de voix IA mesure autre chose, la fréquence à laquelle votre marque apparaît face à vos concurrents sur un panel de questions répété dans le temps. C'est l'indicateur à suivre quand les clics ne disent plus grand-chose.</description>
   </item>
   <item>
     <title>202 caractères pour convaincre ChatGPT : écrire une page que les IA citent</title>
     <link>https://itsalix.fr/ecrire-une-page-que-les-ia-citent</link>
     <guid isPermaLink="true">https://itsalix.fr/ecrire-une-page-que-les-ia-citent</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
     <description>202 caractères pour convaincre ChatGPT, oui, ça suffit !</description>
   </item>
   <item>
     <title>Fermé, trop cher, racheté : quand une IA se trompe sur vous, voici comment corriger</title>
     <link>https://itsalix.fr/ia-erreur-sur-votre-entreprise-que-faire</link>
     <guid isPermaLink="true">https://itsalix.fr/ia-erreur-sur-votre-entreprise-que-faire</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
     <description>Personne ne peut réécrire à votre place la réponse d'une IA. Vous pouvez en revanche corriger les pages où elle puise, signaler l'erreur aux bons endroits et, quand l'information fausse vise une personne, exiger sa rectification au titre du RGPD. Le plus efficace commence chez vous : votre site, vos fiches, les annuaires qui parlent de vous.</description>
-  </item>
-  <item>
-    <title>Quand une IA parle de votre ville, cite-t-elle votre journal ? Le guide du média local</title>
-    <link>https://itsalix.fr/media-local-source-pour-les-ia</link>
-    <guid isPermaLink="true">https://itsalix.fr/media-local-source-pour-les-ia</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Une IA cite un média local quand ses robots de recherche peuvent entrer, quand une page répond nettement à une question sur le territoire et quand l'information y est datée et signée. Ces citations se mesurent déjà gratuitement, dans Bing et dans Google, et deviennent un argument auprès des annonceurs comme des partenaires.</description>
-  </item>
-  <item>
-    <title>Jusqu'à 23 % de taux de clic en moins : ce que les Aperçus IA changent pour votre PME</title>
-    <link>https://itsalix.fr/ai-overviews-france-pme</link>
-    <guid isPermaLink="true">https://itsalix.fr/ai-overviews-france-pme</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Depuis le 22 juillet 2026, Google affiche en France des Aperçus IA au-dessus des résultats et propose un Mode IA conversationnel. Neuf jours plus tard, on observait un -23,1% de clics pour certains sites ! Pour une PME, l'enjeu se déplace : être la source que Google cite, et mesurer autrement sa visibilité.</description>
-  </item>
-  <item>
-    <title>Les données structurées, combat prioritaire ou bataille perdue d'avance ?</title>
-    <link>https://itsalix.fr/donnees-structurees-minimum-utile</link>
-    <guid isPermaLink="true">https://itsalix.fr/donnees-structurees-minimum-utile</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Ni l'un ni l'autre. Aucun balisage ne fait citer une page par une IA, Google l'écrit noir sur blanc. Mais quelques données structurées aident les moteurs à savoir qui vous êtes, ce que vous vendez et quand une page a changé. Voici le minimum utile, et ce que vous pouvez laisser de côté.</description>
-  </item>
-  <item>
-    <title>ChatGPT ne parle jamais de votre entreprise ? Sept causes à vérifier vous-même</title>
-    <link>https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</link>
-    <guid isPermaLink="true">https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Quand ChatGPT ignore votre entreprise, la cause est rarement mystérieuse. Soit il répond de mémoire et ne vous a jamais croisé, soit il cherche sur le web et ne trouve rien d'utilisable chez vous. Sept vérifications, faisables en une heure et sans outil payant, disent laquelle et quoi corriger en premier.</description>
-  </item>
-  <item>
-    <title>Perplexity cite ses sources. Encore faut-il savoir les lire (et les vérifier)</title>
-    <link>https://itsalix.fr/lire-une-reponse-de-perplexity</link>
-    <guid isPermaLink="true">https://itsalix.fr/lire-une-reponse-de-perplexity</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Perplexity cherche sur le web à chaque question et relie ses phrases à des sources numérotées. C'est ce qui permet de voir d'où vient chaque recommandation : un média, une administration, ou le site d'un vendeur qui se recommande lui-même. Lire une réponse prend deux minutes, à condition de savoir où regarder.</description>
-  </item>
-  <item>
-    <title>Vos avis Google parlent aux IA, et le sentiment général compte plus que les étoiles</title>
-    <link>https://itsalix.fr/avis-google-carburant-des-ia</link>
-    <guid isPermaLink="true">https://itsalix.fr/avis-google-carburant-des-ia</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Quand on demande à une IA le meilleur artisan ou le meilleur cabinet d'une ville, elle s'appuie largement sur les avis clients : le nombre d'avis sépare les entreprises recommandées des autres bien plus que la note. Voici ce que ça change pour vous.</description>
-  </item>
-  <item>
-    <title>ChatGPT recommande votre concurrent, pas vous : ce qu'il a que vous n'avez pas</title>
-    <link>https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</link>
-    <guid isPermaLink="true">https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-    <description>Quand ChatGPT cite un concurrent et vous oublie, la taille de l'entreprise compte moins qu'on ne le croit. Le plus souvent, il ne vous a pas trouvé au moment où il cherchait, ou il a trouvé ailleurs des informations plus nettes sur l'autre. Ces écarts se repèrent, et la plupart se corrigent.</description>
   </item>
   <item>
     <title>Deux visites de ChatGPT en cinq mois : le fichier llms.txt est-il un gadget ?</title>
     <link>https://itsalix.fr/fichier-llms-txt-utile-ou-gadget</link>
     <guid isPermaLink="true">https://itsalix.fr/fichier-llms-txt-utile-ou-gadget</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
     <description>Deux visites de ChatGPT en cinq mois : le fichier llms.txt est-il un gadget ?</description>
+  </item>
+  <item>
+    <title>Jusqu'à 23 % de taux de clic en moins : ce que les Aperçus IA changent pour votre PME</title>
+    <link>https://itsalix.fr/ai-overviews-france-pme</link>
+    <guid isPermaLink="true">https://itsalix.fr/ai-overviews-france-pme</guid>
+    <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Depuis le 22 juillet 2026, Google affiche en France des Aperçus IA au-dessus des résultats et propose un Mode IA conversationnel. Neuf jours plus tard, on observait un -23,1% de clics pour certains sites ! Pour une PME, l'enjeu se déplace : être la source que Google cite, et mesurer autrement sa visibilité.</description>
+  </item>
+  <item>
+    <title>Vos avis Google parlent aux IA, et le sentiment général compte plus que les étoiles</title>
+    <link>https://itsalix.fr/avis-google-carburant-des-ia</link>
+    <guid isPermaLink="true">https://itsalix.fr/avis-google-carburant-des-ia</guid>
+    <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Quand on demande à une IA le meilleur artisan ou le meilleur cabinet d'une ville, elle s'appuie largement sur les avis clients : le nombre d'avis sépare les entreprises recommandées des autres bien plus que la note. Voici ce que ça change pour vous.</description>
+  </item>
+  <item>
+    <title>La pub arrive dans ChatGPT : peut-on payer pour être dans la réponse ?</title>
+    <link>https://itsalix.fr/publicite-dans-chatgpt</link>
+    <guid isPermaLink="true">https://itsalix.fr/publicite-dans-chatgpt</guid>
+    <pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Non. Depuis le 31 août 2026, ChatGPT affiche en France des annonces aux utilisateurs des offres gratuite et Go, mais OpenAI affirme qu'elles restent séparées de la réponse et ne l'influencent pas. La publicité achète une place à côté. Être cité dans la réponse elle-même se gagne toujours avec vos contenus et ce que le web dit de vous.</description>
+  </item>
+  <item>
+    <title>Les données structurées, combat prioritaire ou bataille perdue d'avance ?</title>
+    <link>https://itsalix.fr/donnees-structurees-minimum-utile</link>
+    <guid isPermaLink="true">https://itsalix.fr/donnees-structurees-minimum-utile</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Ni l'un ni l'autre. Aucun balisage ne fait citer une page par une IA, Google l'écrit noir sur blanc. Mais quelques données structurées aident les moteurs à savoir qui vous êtes, ce que vous vendez et quand une page a changé. Voici le minimum utile, et ce que vous pouvez laisser de côté.</description>
+  </item>
+  <item>
+    <title>ChatGPT recommande votre concurrent, pas vous : ce qu'il a que vous n'avez pas</title>
+    <link>https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</link>
+    <guid isPermaLink="true">https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</guid>
+    <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Quand ChatGPT cite un concurrent et vous oublie, la taille de l'entreprise compte moins qu'on ne le croit. Le plus souvent, il ne vous a pas trouvé au moment où il cherchait, ou il a trouvé ailleurs des informations plus nettes sur l'autre. Ces écarts se repèrent, et la plupart se corrigent.</description>
+  </item>
+  <item>
+    <title>Une question, plusieurs recherches cachées : le fan-out, ou comment l'IA vous trouve</title>
+    <link>https://itsalix.fr/fan-out-ia-question-en-dix</link>
+    <guid isPermaLink="true">https://itsalix.fr/fan-out-ia-question-en-dix</guid>
+    <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Quand votre client pose une question à ChatGPT ou au Mode IA de Google, l'IA ne la cherche pas telle quelle. Elle la découpe en plusieurs recherches plus précises, sur le prix, les avis ou le site officiel, puis lit les pages que chacune ramène. C'est le fan-out, et votre visibilité se joue dans ces recherches-là.</description>
+  </item>
+  <item>
+    <title>ChatGPT ne parle jamais de votre entreprise ? Sept causes à vérifier vous-même</title>
+    <link>https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</link>
+    <guid isPermaLink="true">https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</guid>
+    <pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Quand ChatGPT ignore votre entreprise, la cause est rarement mystérieuse. Soit il répond de mémoire et ne vous a jamais croisé, soit il cherche sur le web et ne trouve rien d'utilisable chez vous. Sept vérifications, faisables en une heure et sans outil payant, disent laquelle et quoi corriger en premier.</description>
+  </item>
+  <item>
+    <title>Google le dit : le GEO, c'est encore du SEO. Voici ce qui change quand même</title>
+    <link>https://itsalix.fr/seo-et-geo-ce-qui-change</link>
+    <guid isPermaLink="true">https://itsalix.fr/seo-et-geo-ce-qui-change</guid>
+    <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+    <description>En mai 2026, Google a écrit noir sur blanc qu'optimiser pour ses réponses d'IA, c'est encore du SEO. Être exploré, indexé et utile reste la base. Trois choses changent pourtant pour une entreprise : on n'est plus classé mais cité, la réputation hors de votre site pèse davantage, et les visites ne suffisent plus à mesurer le résultat.</description>
   </item>
   <item>
     <title>58 000 pages trouvées, 760 lues : comment une IA décide de citer votre entreprise</title>
     <link>https://itsalix.fr/comment-une-ia-decide-de-citer-votre-entreprise</link>
     <guid isPermaLink="true">https://itsalix.fr/comment-une-ia-decide-de-citer-votre-entreprise</guid>
-    <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
     <description>58 000 pages trouvées, 760 lues : comment une IA décide de citer votre entreprise</description>
   </item>
 </channel>
