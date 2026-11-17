@@ -7,6 +7,34 @@
   <language>fr-FR</language>
   <atom:link href="https://itsalix.fr/flux.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Votre trafic baisse : la faute à Google, à ses IA ou à un compteur cassé ?</title>
+    <link>https://itsalix.fr/baisse-de-trafic-core-update-ou-ia</link>
+    <guid isPermaLink="true">https://itsalix.fr/baisse-de-trafic-core-update-ou-ia</guid>
+    <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Une baisse de trafic a trois suspects habituels, et chacun laisse une trace différente dans la Search Console. Une core update de Google fait reculer les positions. Les Aperçus IA et le Mode IA laissent les positions en place mais prennent des clics. Un bug de mesure fait baisser les chiffres, pas les visites réelles.</description>
+  </item>
+  <item>
+    <title>Google Analytics compte enfin les visites venues des IA. Sauf celles de Google</title>
+    <link>https://itsalix.fr/mesurer-le-trafic-venu-des-ia</link>
+    <guid isPermaLink="true">https://itsalix.fr/mesurer-le-trafic-venu-des-ia</guid>
+    <pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Depuis le 13 mai 2026, Google Analytics range dans un canal « AI Assistant » les visites venues de ChatGPT, Gemini ou Claude. Trois catégories lui échappent pourtant : les clics des Aperçus IA et du Mode IA de Google, classés en recherche organique, les applications mobiles qui arrivent en accès direct, et les assistants qu'il ne reconnaît pas.</description>
+  </item>
+  <item>
+    <title>Google, Bing, Brave : chaque IA cherche ailleurs. Votre site est-il dans le bon index ?</title>
+    <link>https://itsalix.fr/index-des-ia-google-bing-brave</link>
+    <guid isPermaLink="true">https://itsalix.fr/index-des-ia-google-bing-brave</guid>
+    <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Une IA qui cherche sur le web interroge un index, pas Internet tout entier. Le Mode IA puise dans celui de Google, Copilot dans celui de Bing, Perplexity dans le sien, ChatGPT mélange son index maison et des résultats Google, et Le Chat de Mistral figure parmi les clients de Brave. Bien placé sur Google, vous pouvez rester invisible ailleurs.</description>
+  </item>
+  <item>
+    <title>Près d'un marchand sur deux cache ses prix ou son stock aux robots des IA</title>
+    <link>https://itsalix.fr/produits-dans-les-reponses-des-ia</link>
+    <guid isPermaLink="true">https://itsalix.fr/produits-dans-les-reponses-des-ia</guid>
+    <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+    <description>Pour montrer un produit, ChatGPT, le Mode IA ou Copilot ont besoin de son prix, de sa disponibilité et de sa référence, lisibles par une machine. Selon le baromètre Fasterize d'octobre 2026, près d'un site marchand sur deux n'affiche pourtant prix ou stock qu'après exécution du JavaScript, que plusieurs robots d'IA, dont celui de ChatGPT, n'exécutent pas.</description>
+  </item>
+  <item>
     <title>Neuf sites rayés de Google Discover en une nuit : ce que les médias doivent vérifier</title>
     <link>https://itsalix.fr/google-discover-sites-coupes-medias</link>
     <guid isPermaLink="true">https://itsalix.fr/google-discover-sites-coupes-medias</guid>
