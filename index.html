@@ -686,7 +686,7 @@ li.appendChild(a);ul.appendChild(li);});}).catch(function(){});})();
     });
   });
 
-  // Barre mobile : visible quand aucun formulaire n'est à l'écran
+  // Barre mobile : visible quand ni un formulaire ni le pied de page ne sont à l'écran
   var stick = document.getElementById('stick'), visible = new Set();
   if ('IntersectionObserver' in window){
     var io = new IntersectionObserver(function(entries){
@@ -696,6 +696,7 @@ li.appendChild(a);ul.appendChild(li);});}).catch(function(){});})();
       stick.querySelector('a').tabIndex = show ? 0 : -1;
     });
     document.querySelectorAll('[data-form]').forEach(function(f){ io.observe(f); });
+    var ft = document.querySelector('footer'); if (ft) io.observe(ft);
   }
 })();
 </script>
