@@ -1,41 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://itsalix.fr/</loc></url>
-  <url><loc>https://itsalix.fr/accompagnements</loc></url>
-  <url><loc>https://itsalix.fr/prenez-place</loc></url>
-  <url><loc>https://itsalix.fr/retablissez-les-faits</loc></url>
-  <url><loc>https://itsalix.fr/soyez-la-reponse</loc></url>
-  <url><loc>https://itsalix.fr/faites-autorite</loc></url>
-  <url><loc>https://itsalix.fr/a-propos</loc></url>
-  <url><loc>https://itsalix.fr/auteur-mathilde</loc></url>
-  <url><loc>https://itsalix.fr/questions</loc></url>
-  <url><loc>https://itsalix.fr/contact</loc></url>
-  <url><loc>https://itsalix.fr/blog</loc></url>
-  <url><loc>https://itsalix.fr/articles</loc></url>
-  <url><loc>https://itsalix.fr/glossaire</loc></url>
-  <url><loc>https://itsalix.fr/breves</loc></url>
-  <url><loc>https://itsalix.fr/idees-recues</loc></url>
-  <url><loc>https://itsalix.fr/mentions-legales</loc></url>
-  <url><loc>https://itsalix.fr/confidentialite</loc></url>
-  <url><loc>https://itsalix.fr/baisse-de-trafic-core-update-ou-ia</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://itsalix.fr/mesurer-le-trafic-venu-des-ia</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://itsalix.fr/index-des-ia-google-bing-brave</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://itsalix.fr/produits-dans-les-reponses-des-ia</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://itsalix.fr/google-discover-sites-coupes-medias</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://itsalix.fr/chatgpt-ou-google-les-vrais-chiffres</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/media-local-source-pour-les-ia</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/lire-une-reponse-de-perplexity</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/part-de-voix-ia</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://itsalix.fr/ecrire-une-page-que-les-ia-citent</loc><lastmod>2026-11-08</lastmod></url>
-  <url><loc>https://itsalix.fr/ia-erreur-sur-votre-entreprise-que-faire</loc><lastmod>2026-11-03</lastmod></url>
-  <url><loc>https://itsalix.fr/fichier-llms-txt-utile-ou-gadget</loc><lastmod>2026-11-11</lastmod></url>
-  <url><loc>https://itsalix.fr/ai-overviews-france-pme</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/avis-google-carburant-des-ia</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/publicite-dans-chatgpt</loc><lastmod>2026-11-09</lastmod></url>
-  <url><loc>https://itsalix.fr/donnees-structurees-minimum-utile</loc><lastmod>2026-11-05</lastmod></url>
-  <url><loc>https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://itsalix.fr/fan-out-ia-question-en-dix</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/seo-et-geo-ce-qui-change</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://itsalix.fr/comment-une-ia-decide-de-citer-votre-entreprise</loc><lastmod>2026-11-11</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://itsalix.fr/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <!-- texte:e13d163e2f8d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/accompagnements</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:ce66beb583ba -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/prenez-place</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:369ed62ce02e -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/retablissez-les-faits</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:25f8cd162397 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/soyez-la-reponse</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:e7ad65da545d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/faites-autorite</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:a051e2915575 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/a-propos</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:86c6eff58a8d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/auteur-mathilde</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:47910a252fbc -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/questions</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:ce701df9dcc7 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/contact</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:7a9f504f2b9e -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/blog</loc>
+    <lastmod>2026-11-18</lastmod>
+    <!-- texte:e29573eff27f -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/articles</loc>
+    <lastmod>2026-11-18</lastmod>
+    <!-- texte:db038500bd38 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/breves</loc>
+    <lastmod>2026-11-22</lastmod>
+    <!-- texte:84adac41e839 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/idees-recues</loc>
+    <lastmod>2026-11-18</lastmod>
+    <!-- texte:70dcc2517470 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/mentions-legales</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:d98270a4611a -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/confidentialite</loc>
+    <lastmod>2026-11-16</lastmod>
+    <!-- texte:567bdf8e9615 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/baisse-de-trafic-core-update-ou-ia</loc>
+    <lastmod>2026-11-19</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/baisse-de-trafic-core-update-ou-ia.jpg</image:loc></image:image>
+    <!-- texte:b3a7d5af5f6d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/mesurer-le-trafic-venu-des-ia</loc>
+    <lastmod>2026-11-14</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/mesurer-le-trafic-venu-des-ia.jpg</image:loc></image:image>
+    <!-- texte:c5b48b1136a8 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/index-des-ia-google-bing-brave</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/index-des-ia-google-bing-brave.jpg</image:loc></image:image>
+    <!-- texte:2fb87943ee0d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/produits-dans-les-reponses-des-ia</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/produits-dans-les-reponses-des-ia.jpg</image:loc></image:image>
+    <!-- texte:ed06a4a65cda -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/google-discover-sites-coupes-medias</loc>
+    <lastmod>2026-11-14</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/google-discover-sites-coupes-medias.jpg</image:loc></image:image>
+    <!-- texte:2e0e8a9b9a86 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/chatgpt-ou-google-les-vrais-chiffres</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/chatgpt-ou-google-les-vrais-chiffres.jpg</image:loc></image:image>
+    <!-- texte:8088aac434ae -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/media-local-source-pour-les-ia</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/media-local-source-pour-les-ia.jpg</image:loc></image:image>
+    <!-- texte:1a8754f9137d -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/lire-une-reponse-de-perplexity</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/lire-une-reponse-de-perplexity.jpg</image:loc></image:image>
+    <!-- texte:b8ba46e957b4 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/part-de-voix-ia</loc>
+    <lastmod>2026-11-12</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/part-de-voix-ia.jpg</image:loc></image:image>
+    <!-- texte:25661ca36dd7 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/ecrire-une-page-que-les-ia-citent</loc>
+    <lastmod>2026-11-08</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/ecrire-une-page-que-les-ia-citent.jpg</image:loc></image:image>
+    <!-- texte:5f574c5bfa4b -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/ia-erreur-sur-votre-entreprise-que-faire</loc>
+    <lastmod>2026-11-03</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/ia-erreur-sur-votre-entreprise.jpg</image:loc></image:image>
+    <!-- texte:541268d19b48 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/fichier-llms-txt-utile-ou-gadget</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/fichier-llms-txt.jpg</image:loc></image:image>
+    <!-- texte:d10e8df0d388 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/ai-overviews-france-pme</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/ai-overviews-france-pme.jpg</image:loc></image:image>
+    <!-- texte:e827aa9f2b57 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/avis-google-carburant-des-ia</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/avis-google-carburant-des-ia.jpg</image:loc></image:image>
+    <!-- texte:36fb264837c2 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/publicite-dans-chatgpt</loc>
+    <lastmod>2026-11-09</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/publicite-dans-chatgpt.jpg</image:loc></image:image>
+    <!-- texte:2b0d56dd310c -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/donnees-structurees-minimum-utile</loc>
+    <lastmod>2026-11-05</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/donnees-structurees-minimum-utile.jpg</image:loc></image:image>
+    <!-- texte:713095649025 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/pourquoi-chatgpt-cite-vos-concurrents</loc>
+    <lastmod>2026-11-12</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/chatgpt-cite-vos-concurrents.jpg</image:loc></image:image>
+    <!-- texte:d56436534164 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/fan-out-ia-question-en-dix</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/fan-out-ia-question-en-dix.jpg</image:loc></image:image>
+    <!-- texte:555a741f1208 -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/pourquoi-chatgpt-ne-parle-pas-de-votre-entreprise</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/pourquoi-chatgpt-ne-parle-pas.jpg</image:loc></image:image>
+    <!-- texte:cc672eb39e4c -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/seo-et-geo-ce-qui-change</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/seo-et-geo-ce-qui-change.jpg</image:loc></image:image>
+    <!-- texte:de79a8da01fe -->
+  </url>
+  <url>
+    <loc>https://itsalix.fr/comment-une-ia-decide-de-citer-votre-entreprise</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image><image:loc>https://itsalix.fr/images/comment-une-ia-decide-de-citer.jpg</image:loc></image:image>
+    <!-- texte:84a8f019888f -->
+  </url>
 </urlset>
